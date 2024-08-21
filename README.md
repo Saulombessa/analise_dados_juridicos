@@ -1,4 +1,4 @@
-# analise_dados_juridicos
+
 # Análise de Dados Jurídicos com Pandas
 
 Este repositório contém um exemplo de código em Python utilizando a biblioteca Pandas para realizar a análise de dados em um contexto jurídico. O código foi desenvolvido como parte de um projeto de extensão do curso de Análise e Desenvolvimento de Sistemas da Estácio, em colaboração com o escritório de advocacia MCR Advogados Associados.
